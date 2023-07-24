@@ -1,0 +1,11 @@
+faz:34
+pippo:0
+nome:0
+nome:0
+cri:29
+cri:7
+SUCA:8
+SUCA:0
+gigi:18
+ciao:6
+ciao:12
