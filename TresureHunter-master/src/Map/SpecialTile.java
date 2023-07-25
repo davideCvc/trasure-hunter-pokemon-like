@@ -21,7 +21,6 @@ public class SpecialTile extends Tile implements Runnable {
     BufferedImage floorIcon;
     ImageIcon npc;
     private static final int SLEEP_TIME = 60_000;
-    private int totalPoint = 0;
 
     private ImageIcon chestGame = null, escapeGame = null, jumpGame = null, memoryGame = null;
 

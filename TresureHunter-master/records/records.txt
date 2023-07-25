@@ -1,3 +1,9 @@
 faz:34
 faz:45
 nom:20
+nome:0
+nome:0
+nome:0
+nome:0
+nome:0
+nome:0
