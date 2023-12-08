@@ -1,0 +1,10 @@
+w =  wall orrizontali
+v = wall verticali
+b = bush
+g = grass
+s = scala
+r = muro verticale sinistro
+v = muro verticale destro
+a = arco
+t = tree
+f = floor
